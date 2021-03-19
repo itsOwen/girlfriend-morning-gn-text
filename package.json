@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "venom-bot": "^3.0.11"
+  }
+}
