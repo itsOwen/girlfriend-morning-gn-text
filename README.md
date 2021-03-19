@@ -1,6 +1,6 @@
 # Girlfriend/Boyfriend Morning / Night Text! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-A Simple Script that sends whatsapp greetings to your loved ones :)
+Too Lazy to Send your Girlfriend Daily Good Morning and Good Night Messages? Here's a Solution :) A Simple Script that sends whatsapp greetings to your loved ones :)
 
 ## DISCLAIMER
 This bot is created for educational purposes only, I am not responsible for the misuse of this product.
