@@ -22,7 +22,4 @@ This bot is created for educational purposes only, I am not responsible for the 
 3. Now run the file by: node filename.js
 4. Enjoy :)
 
-## Inspired By: @adhikary97
-@adhikary97 https://github.com/adhikary97/girlfriend_text
-
 ## Have a nice day :)
