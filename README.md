@@ -26,6 +26,6 @@ This bot is created for educational purposes only, I am not responsible for the 
 1. Text your girlfriend Good Morning automatically.
 2. Send message to your girlfriend or boyfriend auto.
 3. Send Mesaages Good Morning Babe, Good Morning Love, Good Morning Cutie.
-4. Send Text to rhe girlfriend in morning.
+4. Send Text to the girlfriend in morning automatically bot.
 
 ## Have a nice day :)
