@@ -2,6 +2,8 @@
 
 Too Lazy to Send your Girlfriend Daily Good Morning and Good Night Messages? Here's a Solution :) A Simple Script that sends whatsapp greetings to your loved ones :)
 
+## PLEASE GIVE IT A STAR IF YOU LIKE MY WORK, THANKS <3
+
 <img src="https://i.ibb.co/PMFJdSv/image.jpg">
 
 ## DISCLAIMER
