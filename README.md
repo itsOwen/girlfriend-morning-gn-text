@@ -2,6 +2,8 @@
 
 Too Lazy to Send your Girlfriend Daily Good Morning and Good Night Messages? Here's a Solution :) A Simple Script that sends whatsapp greetings to your loved ones :)
 
+<img src="https://i.ibb.co/PMFJdSv/image.jpg" width="30px">
+
 ## DISCLAIMER
 This bot is created for educational purposes only, I am not responsible for the misuse of this product.
 
@@ -15,10 +17,11 @@ This bot is created for educational purposes only, I am not responsible for the 
 2. Easy to Use.<br />
 3. Added Inputs So its is User friendly.<br />
 4. Its headerless so you can upload it on heroku and use it for free. <br />
+5. Send Random Morning and Night text to gf and bf <br />
 
 ## Note (Installation):
 1. Download and install Node.js
-2. Now Simply install the packages
+2. Now Simply install the packages (npm install)
 3. Now run the file by: node filename.js
 4. Enjoy :)
 
@@ -27,5 +30,6 @@ This bot is created for educational purposes only, I am not responsible for the 
 2. Send message to your girlfriend or boyfriend auto.
 3. Send Mesaages Good Morning Babe, Good Morning Love, Good Morning Cutie.
 4. Send Text to the girlfriend in morning automatically bot.
+5. Send Random messages to girlfriend and boyfriend
 
 ## Have a nice day :)
